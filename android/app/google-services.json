@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870686722353",
+    "project_id": "mfbase-5468f",
+    "storage_bucket": "mfbase-5468f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870686722353:android:2f70ba59070a55fc024810",
+        "android_client_info": {
+          "package_name": "com.example.mfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ1xCiYRhTNylKuljrfmQet85CQ1R1Yys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
